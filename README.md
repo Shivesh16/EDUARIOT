@@ -1,4 +1,4 @@
-# ARIOT
+# EDUARIOT
 AR and IoT enabled Device using Unity and Vuforia Engine.
 
 # Try it Out!
